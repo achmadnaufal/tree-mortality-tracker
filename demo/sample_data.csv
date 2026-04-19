@@ -1,0 +1,21 @@
+site_id,species,planted_date,initial_count,alive_count,assessment_date,cause_of_death
+KAL-01,Acacia mangium,2022-01-15,500,412,2023-01-15,drought
+KAL-01,Acacia mangium,2022-01-15,500,365,2024-01-15,drought
+KAL-02,Shorea leprosula,2022-02-10,400,332,2023-02-10,seedling_stress
+KAL-02,Shorea leprosula,2022-02-10,400,288,2024-02-10,seedling_stress
+KAL-02,Shorea leprosula,2022-02-10,400,255,2025-02-10,pest
+SUM-03,Swietenia macrophylla,2021-11-05,600,498,2023-11-05,drought
+SUM-03,Swietenia macrophylla,2021-11-05,600,441,2024-11-05,drought
+SUM-04,Agathis dammara,2022-03-20,350,305,2023-03-20,unknown
+SUM-04,Agathis dammara,2022-03-20,350,268,2024-03-20,fire
+JAV-05,Dipterocarpus grandiflorus,2021-06-12,450,360,2023-06-12,competition
+JAV-05,Dipterocarpus grandiflorus,2021-06-12,450,312,2024-06-12,competition
+JAV-05,Dipterocarpus grandiflorus,2021-06-12,450,278,2025-06-12,pest
+PAP-06,Acacia mangium,2022-09-01,300,252,2023-09-01,drought
+PAP-06,Acacia mangium,2022-09-01,300,215,2024-09-01,drought
+SUL-07,Shorea leprosula,2023-01-25,250,210,2024-01-25,seedling_stress
+SUL-07,Shorea leprosula,2023-01-25,250,184,2025-01-25,pest
+KAL-08,Swietenia macrophylla,2022-07-18,550,470,2023-07-18,drought
+KAL-08,Swietenia macrophylla,2022-07-18,550,405,2024-07-18,fire
+SUM-09,Agathis dammara,2023-04-02,200,176,2024-04-02,unknown
+SUM-09,Agathis dammara,2023-04-02,200,152,2025-04-02,competition
